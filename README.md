@@ -143,7 +143,7 @@ POST /ask
 ## Author
 
 Janhvi Kharat
-Data Analyst | AI/ML Enthusiast
+AI/ML Enthusiast
 
 ---
 
